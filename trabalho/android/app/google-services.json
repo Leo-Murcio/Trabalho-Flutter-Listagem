@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741001277422",
+    "project_id": "trabalhoagro-41111",
+    "storage_bucket": "trabalhoagro-41111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741001277422:android:a9c6fda01810ec539ea8ff",
+        "android_client_info": {
+          "package_name": "com.example.trabalho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWFAkw82PsJRzh-dNZoWP3M7awCMM_eYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
